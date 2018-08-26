@@ -17,3 +17,4 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - House decor?
     - Spine candle
     - Lighting
+    - Something like this? [Do not open. Ghost inside.](https://twitter.com/haleshannon/status/1033394022960623616)
