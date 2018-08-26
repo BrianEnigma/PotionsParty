@@ -3,9 +3,12 @@
 ## Dowels
 
 - Diameter?
+- Length?
 - Lathe?
 - Paint/Stain?
 - How many to make?
+
+My oak wand from Olivanders is 41.5cm in length.
 
 ## Magnet Notes
 
