@@ -1,4 +1,4 @@
-# Light Stations
+# Lightup Mixing Stations
 
 
 
@@ -10,12 +10,10 @@
 - Different colors of wood/acrylic?
 - Spooky/magic design etched into acrylic? Sigil of some kind? But nothing with a “real” magickal meaning.
   - Etched sigil doesn't really show up. Fill it with paint? Brush? Spraycan?
-
+- LEDs do a slow-to-fast spin animation, appearing a little bit like it's mixing/spinning.
 
 
 ## TODO
-
-- Make peg holes smaller in draftboard inner piece, for a better friction fit.
 
 ## Parts
 
