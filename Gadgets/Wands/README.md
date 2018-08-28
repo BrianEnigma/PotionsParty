@@ -7,6 +7,7 @@
 - Lathe?
 - Paint/Stain?
 - How many to make?
+- A taped-up broken wand like Ron's
 
 My oak wand from Olivanders is 41.5cm in length.
 
