@@ -1,6 +1,8 @@
 # Party Invitation
 
+Parchment-style paper
 
+Sealed with wax (Brian's Celtic set or Hogwarts one??)
 
 
 
