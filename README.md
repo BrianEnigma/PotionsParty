@@ -10,8 +10,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 
 # Random Notes
 
-- Need small test-tube racks so students can carry their ingredients to a mixing station? Probably, yes. Simple, small. Rectangular? Circular? Looks worn, like it caught on fire once?
-
+- Need small test-tube racks so students can carry their ingredients to a mixing station? Probably, yes. Simple, small. Rectangular? Circular? Looks worn, like it caught on fire once?  **<--- LOVE THIS!!** 
 - Goblet of fire? What would it be for? Decoration? Put name in for some reason?
 - Triwizard cup?
 - House decor?
@@ -25,4 +24,40 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
       - Camping furniture
       - Tissue Paper campfire ??
       - Silhouetted trees projected
+      - Soundscape of forest sounds
+    - A KEEP OUT warning if triggered by magic wand makes the lights go all wonky 
+    - Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
+- Outdoor decor:
+    - Scary eyes in bushes
+    - Spooky dementor that descends
 
+
+
+# Priority List 
+
+### (to be edited as needed)
+
+- [ ] Potions Cabinets
+- [ ] Test Tube Racks
+- [ ] Mixing Stations
+- [ ] Magic Wands
+- [ ] Invitations
+  - [ ] Designed
+  - [ ] Printed
+  - [ ] Distributed
+- [ ] Decide on drink / food menu (sample)
+- [ ] Potion/Spellbooks
+  - [ ] Designed
+  - [ ] Printed
+- [ ] Azkaban Posters
+
+
+
+To Purchase
+
+- [x] Test tubes
+- [x] Magical electronics
+- [x] Parchment & Seal Kit
+- [ ] Jack O'Lantern Paper Lanterns?
+- [ ] Mini projector?
+- [ ] 
