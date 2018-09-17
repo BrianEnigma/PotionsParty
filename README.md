@@ -50,6 +50,9 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
   - [ ] Beware the House Elf
   - [ ] Keep Out (for lights??)
   - [ ] Do Not Open: Ghost Inside ??
+- [ ] Labels for Drinks
+  - [ ] Pumpkin Juice
+  - [ ] Butterbeer
 
 
 
@@ -58,11 +61,10 @@ To Purchase
 - [x] Test tubes
 - [x] Magical electronics
 - [x] Parchment & Seal Kit
-- [ ] Jack O'Lantern Paper Lanterns
+- [x] Jack O'Lantern Paper Lanterns
 - [ ] Mini projector?
 - [x] Lights for Forbidden Forest
-- [ ] Cauldron & other silicone / baking things ??
-- [ ] Bertie Botts
+- [ ] Bertie Botts 
 - [ ] Chocolate Frog molds
-- [ ] Melting Chocolate
-- [ ] Tissue Paper for Indoor Dementors / Bats ??
+- [ ] Melting Dark Chocolate
+- [x] Tissue Paper for Indoor Dementors / Bats ??
