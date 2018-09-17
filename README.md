@@ -2,6 +2,7 @@
 
 Notes, designs, and source files for a Potions Class themed Harry Potter party. Major subcategories include:
 
+- [Decor](,Decor)
 - [Drinks](./Drinks/)
 - [Food](Food.md)
 - [Gadgets](./Gadgets/)
@@ -26,10 +27,14 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
       - Silhouetted trees projected
       - Soundscape of forest sounds
       - Scary eyes behind plants/foliage
+      - Hidden Snitches ??
     - A KEEP OUT warning if triggered by magic wand makes the lights go all wonky 
     - Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
 - Outdoor decor:
-    - Spooky dementor that descends
+    - Spooky dementor that descends  (https://laughingsquid.com/harry-potter-dementor/)
+- Inspirtation: 
+    - Harry Potter Party Ideas: https://www.buzzfeed.com/maitlandquitmeyer/ways-to-throw-the-ultimate-harry-potter-party
+    - Harry Potter Cocktail Ideas: https://www.buzzfeed.com/rachelysanders/harry-potter-and-the-night-he-wont-remember
 
 
 
@@ -69,3 +74,5 @@ To Purchase
 - [ ] Jack O'Lantern Paper Lanterns?
 - [ ] Mini projector?
 - [x] Lights for Forbidden Forest
+- [ ] Cauldron & other silicone / baking things ??
+- [ ] Bertie Botts
