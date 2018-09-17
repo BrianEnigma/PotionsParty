@@ -32,9 +32,11 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
     - Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
 - Outdoor decor:
     - Spooky dementor that descends  (https://laughingsquid.com/harry-potter-dementor/)
-- Inspirtation: 
+- Inspiration: 
     - Harry Potter Party Ideas: https://www.buzzfeed.com/maitlandquitmeyer/ways-to-throw-the-ultimate-harry-potter-party
     - Harry Potter Cocktail Ideas: https://www.buzzfeed.com/rachelysanders/harry-potter-and-the-night-he-wont-remember
+- Dry Ice / Smoking Effect
+    - Not for drinks for safety, but in a centerpiece, we can put it in a glass test tube in the center of ??? for the smoking effect and for safety.
 
 
 
