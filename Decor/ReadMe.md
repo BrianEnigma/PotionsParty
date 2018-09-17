@@ -1,0 +1,33 @@
+# Decor Ideas
+
+### Indoor Decor:
+
+- Spine candle
+
+- Lighting
+
+- Something like this? [Do not open. Ghost inside.](https://twitter.com/haleshannon/status/1033394022960623616)
+
+- Tissue paper Dementors
+
+- Forbidden Forest Room
+
+  - Special lighting
+  - Houseplants
+  - Camping furniture
+  - Tissue Paper campfire ??
+  - Silhouetted trees projected
+  - Soundscape of forest sounds
+  - Scary eyes behind plants/foliage
+  - Hidden Snitches ??
+  - Smoking Cauldron Centerpiece
+
+- A KEEP OUT warning if triggered by magic wand makes the lights go all wonky 
+
+- Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
+
+
+
+  ### Outdoor decor:
+
+- Spooky dementor that descends  (https://laughingsquid.com/harry-potter-dementor/)

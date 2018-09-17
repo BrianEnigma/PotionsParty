@@ -14,7 +14,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - Need small test-tube racks so students can carry their ingredients to a mixing station? Probably, yes. Simple, small. Rectangular? Circular? Looks worn, like it caught on fire once?  **<--- LOVE THIS!!** 
 - Goblet of fire? What would it be for? Decoration? Put name in for some reason?  (3D printing? Sculpted?)
 - Triwizard cup?
-- House decor
+- House decor (see more ideas in [Decor](,Decor))
     - Spine candle
     - Lighting
     - Something like this? [Do not open. Ghost inside.](https://twitter.com/haleshannon/status/1033394022960623616)
