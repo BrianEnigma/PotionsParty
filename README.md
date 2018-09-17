@@ -14,27 +14,12 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - Need small test-tube racks so students can carry their ingredients to a mixing station? Probably, yes. Simple, small. Rectangular? Circular? Looks worn, like it caught on fire once?  **<--- LOVE THIS!!** 
 - Goblet of fire? What would it be for? Decoration? Put name in for some reason?  (3D printing? Sculpted?)
 - Triwizard cup?
-- House decor (see more ideas in [Decor](,Decor))
-    - Spine candle
-    - Lighting
-    - Something like this? [Do not open. Ghost inside.](https://twitter.com/haleshannon/status/1033394022960623616)
-    - Tissue paper Dementors
-    - Forbidden Forest Room
-      - Special lighting
-      - Houseplants
-      - Camping furniture
-      - Tissue Paper campfire ??
-      - Silhouetted trees projected
-      - Soundscape of forest sounds
-      - Scary eyes behind plants/foliage
-      - Hidden Snitches ??
-    - A KEEP OUT warning if triggered by magic wand makes the lights go all wonky 
-    - Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
-- Outdoor decor:
-    - Spooky dementor that descends  (https://laughingsquid.com/harry-potter-dementor/)
+- House decor (see detailed ideas in [Decor](,Decor))
+- Outdoor decor (see detailed ideas in [Decor](,Decor))
 - Inspiration: 
     - Harry Potter Party Ideas: https://www.buzzfeed.com/maitlandquitmeyer/ways-to-throw-the-ultimate-harry-potter-party
     - Harry Potter Cocktail Ideas: https://www.buzzfeed.com/rachelysanders/harry-potter-and-the-night-he-wont-remember
+    - Harry Potter (& other literary) Party Ideas: http://bibliocrunch.com/publishing-tips/book-themed-dinner-menus-for-thanksgiving/
 - Dry Ice / Smoking Effect
     - Not for drinks for safety, but in a centerpiece, we can put it in a glass test tube in the center of ??? for the smoking effect and for safety.
 
@@ -42,7 +27,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 
 # Priority List 
 
-### (to be edited as needed)
+### (to be edited as needed) 
 
 - [ ] Potions Cabinets
 - [ ] Test Tube Racks
@@ -56,7 +41,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - [ ] Potion/Spellbooks
   - [ ] Designed
   - [ ] Printed
-- [ ] Azkaban Posters
+- [ ] Azkaban Posters / Photo Booth
 - [ ] Signage
   - [ ] Room of Requirement
   - [ ] Caution: Entering Forbidden Forest (??)
@@ -73,8 +58,11 @@ To Purchase
 - [x] Test tubes
 - [x] Magical electronics
 - [x] Parchment & Seal Kit
-- [ ] Jack O'Lantern Paper Lanterns?
+- [ ] Jack O'Lantern Paper Lanterns
 - [ ] Mini projector?
 - [x] Lights for Forbidden Forest
 - [ ] Cauldron & other silicone / baking things ??
 - [ ] Bertie Botts
+- [ ] Chocolate Frog molds
+- [ ] Melting Chocolate
+- [ ] Tissue Paper for Indoor Dementors / Bats ??

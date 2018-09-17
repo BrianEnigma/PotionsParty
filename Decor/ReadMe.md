@@ -26,6 +26,8 @@
 
 - Hanging Jack O'Lanterns (paper lanterns) or candles, perhaps strung from fishing line stretching from wall to wall (to save ceiling) with eye hooks??
 
+- Hanging candles (OMG THIS WOMAN IS AMAZING! https://www.youtube.com/watch?v=B0oob5AJVgQ)
+
 
 
   ### Outdoor decor:
