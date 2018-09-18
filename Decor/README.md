@@ -21,6 +21,7 @@
   - Scary eyes behind plants/foliage
   - Hidden Snitches ??
   - Smoking Cauldron Centerpiece
+  - Candle Cages (with something in them? Cornish pixies???)
 
 - A KEEP OUT warning if triggered by magic wand makes the lights go all wonky 
 
