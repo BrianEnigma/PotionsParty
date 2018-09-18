@@ -27,3 +27,5 @@ My instinct is to go big, but the reality is we'll likely have so so so many lef
 
 Another possibiltiy is to make a large Cauldron Cake, but then it's a whole cake! It's likely better to have little individual things like cake pops....
 
+- - Harry Potter Party Ideas: https://www.buzzfeed.com/maitlandquitmeyer/ways-to-throw-the-ultimate-harry-potter-party
+  - Harry Potter (& other literary) Party Ideas: http://bibliocrunch.com/publishing-tips/book-themed-dinner-menus-for-thanksgiving/

@@ -34,7 +34,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - [ ] Mixing Stations
 - [ ] Magic Wands
 - [ ] Invitations
-  - [ ] Designed
+  - [x] Designed
   - [ ] Printed
   - [ ] Distributed
 - [ ] Decide on drink / food menu (sample)
@@ -53,6 +53,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - [ ] Labels for Drinks
   - [ ] Pumpkin Juice
   - [ ] Butterbeer
+  - [ ] In a pinch, this etsy page has them all: https://www.etsy.com/shop/Snitchesgetwitches
 
 
 
