@@ -62,11 +62,12 @@ To Purchase
 - [x] Magical electronics
 - [x] Parchment & Seal Kit
 - [x] Jack O'Lantern Paper Lanterns
-- [ ] Mini projector for trees?
+- [ ] Mini projector for forest?
 - [x] Lights for Forbidden Forest
 - [x] Bertie Botts 
 - [x] Chocolate Frog molds
 - [x] Melting Dark Chocolate
 - [x] Tissue Paper for Indoor Dementors / Bats ??
+- [x] More sealing wax
 - [ ] Dementor-Making Supplies ?
-- [ ] Giant Spider or Supplies to make?
+- [ ] Huge Spider or supplies to make?
