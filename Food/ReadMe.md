@@ -6,7 +6,7 @@ Most food items to be small(ish), no more than a few bites. Reasoning below.
 
 - Pumpkin pasties: pumpkin, cheese (vegan?), sage
 
-- Licorice wands: licorice ropes dipped in icing and rolled in sprinkles at one end
+- Licorice wands: licorice ropes dipped in icing and rolled in sprinkles at one end  (or make? https://www.youtube.com/watch?v=lgQ5doxKt2E :: http://rosannapansino.com/blog/recipes/harry-potter-licorice-wand/)
 
 - Pumpkin Spice Madelines
 
