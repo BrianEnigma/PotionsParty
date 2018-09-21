@@ -16,11 +16,12 @@ Most food items to be small(ish), no more than a few bites. Reasoning below.
 
 ### SAVORY
 
-- Pumpkin pasties: pumpkin, cheese (vegan?), sage
-- Mini Yorkshire Puddings??
-- Perhaps Mini Field Roast sausages wrapped in croissants??
-- Nachos??
-- Mini Savory Pies??
+- [Pumpkin pasties](,http://www.bijouxandbits.com/2015/08/pumpkin-pasties-harry-potter-recipe/): pumpkin, cheese (vegan?), sage
+- [Mini Yorkshire Puddings](,https://www.instructables.com/id/Mini-Yorkshire-Puddings/) 
+- Mini Field Roast sausages wrapped in croissants ([like a mummy](,http://seakettle.com/?p=4433))
+- [Spider Deviled Eggs](,https://www.geniuskitchen.com/ideas/halloween-party-appetizers-finger-food-6449?c=394961) 
+- [Cheese Log Mummy](,https://www.geniuskitchen.com/ideas/halloween-party-appetizers-finger-food-6449) or [Cheese Ball Pumpkin](,https://www.foodnetwork.com/recipes/food-network-kitchen/pumpkin-cheese-ball-3885543) (with crackers/chips)
+- [Pretzel & Cheese Broomsticks](,https://onelittleproject.com/halloween-treat-cheese-pretzel-broomsticks/) 
 
 
 
