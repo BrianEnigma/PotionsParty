@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+import pprint
 from phue import Bridge
 
 b = Bridge('10.0.1.250')
@@ -10,6 +11,10 @@ b.connect()
 
 lights = b.lights
 
+pp = pprint.PrettyPrinter(indent=4)
+pp.pprint(lights)
+
 # Print light names
 for l in lights:
     print(l.name)
+    pp.pprint(l)
