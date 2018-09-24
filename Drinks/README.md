@@ -1,4 +1,6 @@
-POTIONS:  (ideas)
+# Drinks
+
+## Potion Ideas
 
 1. Wolfsbane Potion
 2. Polyjuice Potion
@@ -11,9 +13,7 @@ POTIONS:  (ideas)
 9. Wiggenweld Potion
 10. 
 
-
-
-COCKTAILS:   (ideas)
+## Cocktail Ideas
 
 - Vodka Martini (called ?? )
 
@@ -37,15 +37,14 @@ COCKTAILS:   (ideas)
 
 - [More Halloween Cocktails](https://delishably.com/beverages/halloween-cocktails)
 
+## Soft Drinks
 
-
-
-SOFT DRINKS:
-
+- (Ice?) water in the big glass dispenser.
 - Butterbeer  (warm/cold/both?)
 - Pumpkin Juice
 - [Love Potion Punch](https://www.buzzfeed.com/rachelysanders/amortentia-love-potion-punch#.aloZJG7pbr) (??)
 
+## Ingredients
 
 
 Names for Ingredients:  [Magical Ingredient Generator](http://www.dungeonsandtaverns.com/magical-ingredients/)
@@ -66,27 +65,22 @@ Names for Ingredients:  [Magical Ingredient Generator](http://www.dungeonsandtav
 
 
 - Dropper Bottles & Other Additions
-
-  - Acromantula Venom (Lime Juice) 
-  - Basilisk Venom (Vanilla)
-  - Unicorn Tears (Apple Juice)
-  - Phoenix Tears (Blue Food Coloring)
-  - Pixie Dust (Sugar / Cube / Demerara)
+    - Acromantula Venom (Lime Juice) 
+    - Basilisk Venom (Vanilla)
+    - Unicorn Tears (Apple Juice)
+    - Phoenix Tears (Blue Food Coloring)
+    - Pixie Dust (Sugar / Cube / Demerara)
 
 - Garnish
-
-  - Plimpy Eyes  (Olives)  -- also Eel Eyes, Eye of Newt (??)
-
-  - Boomslang Skin (lemon peel)
-
-  - Powdered Bicorn Horn (Nutmeg and/or Cinnamon)
-
-  - Sliced Mertlap Tentacle (cucumber ribbon)
-
-  - Dragonfly Thorax (chocolate shavings)
+    - Plimpy Eyes  (Olives)  -- also Eel Eyes, Eye of Newt (??)
+    - Boomslang Skin (lemon peel)
+    - Powdered Bicorn Horn (Nutmeg and/or Cinnamon)
+    - Sliced Mertlap Tentacle (cucumber ribbon)
+    - Dragonfly Thorax (chocolate shavings)
 
 
 THOUGHTS:
 
-1. If we have 8 - 10 (two in each of 4 or 5 cabinets) of main ingredients that can be mixed / matched, should we then have more than 5 drinks in the booklet?
+1. If we have ~8 (two in each of 4) of main ingredients that can be mixed / matched, should we then have more than 5 drinks in the booklet?
 2. Perhaps we can make up a batch of pre-made "polyjuice potion" in one of the large erlenmeyer flasks (gin, green juice, chartreuse, lime jucie, sprite) that people don't have to mix (??) ... 
+
