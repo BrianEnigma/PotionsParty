@@ -33,10 +33,10 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - [ ] Test Tube Racks
 - [ ] Mixing Stations
 - [ ] Magic Wands
-- [ ] Invitations
+- [x] Invitations
   - [x] Designed
   - [x] Printed
-  - [ ] Distributed
+  - [x] Distributed
 - [ ] Decide on drink / food menu (sample)
 - [ ] Potion/Spellbooks
   - [x] Designed
