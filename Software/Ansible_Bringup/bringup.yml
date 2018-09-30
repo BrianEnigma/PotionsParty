@@ -1,0 +1,59 @@
+---
+- hosts: all
+  remote_user: pi
+  become: yes
+  become_user: root
+  tasks:
+    - include_vars: "vars.yml"
+    - name: Make sure sshd runs at startup.
+      sysvinit:
+        name: ssh
+        state: started
+        enabled: yes
+        runlevels:
+          - 3
+          - 5
+    - name: Set hostname
+      hostname:
+        name: "{{ new_hostname }}"
+    - name: Update /etc/hosts
+      lineinfile:
+        path: /etc/hosts
+        regexp: "^127.0.0.1"
+        line: "127.0.0.1	localhost {{ new_hostname }} {{ new_hostname }}.local"
+    - name: Reset Password
+      user:
+        name: pi
+        shell: /bin/bash
+        password: "{{ new_password }}"
+    - name: Check and enable audio out the headphone jack.
+      block:
+        - name: "Test for amixer config"
+          shell: "amixer cget numid=3 | grep ': values=' | sed 's/[^0-9]//g' | grep -q '^1$'"
+          register: result
+          ignore_errors: true
+          changed_when: false
+        - name: "Set amixer value"
+          shell: "amixer cset numid=3 1"
+          when: result.rc != 0
+    - name: Package Update
+      tags: updates
+      apt:
+        update_cache: yes
+    - name: Package Upgrade
+      tags: updates
+      apt:
+        upgrade: yes
+    - name: Install new packages
+      tags: updates
+      apt:
+        name: "{{ packages }}"
+      vars:
+        packages:
+        - tmux
+        - mpg123
+        - omxplayer
+        - mediainfo
+
+# Enable and configure wifi
+
