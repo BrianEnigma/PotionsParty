@@ -5,6 +5,7 @@
   become_user: root
   tasks:
     - include_vars: "vars.yml"
+      tags: always
     - name: Make sure sshd runs at startup.
       sysvinit:
         name: ssh
@@ -51,9 +52,32 @@
       vars:
         packages:
         - tmux
+        - vim
         - mpg123
         - omxplayer
         - mediainfo
-
-# Enable and configure wifi
-
+    - name: Set up wifi (radio)
+      tags: network
+      blockinfile:
+        path: /etc/wpa_supplicant/wpa_supplicant.conf
+        block: |
+          network={
+          ssid="{{ wifi_name }}"
+          psk="{{ wifi_pass }}"
+          key_mgmt=WPA-PSK
+          country=US
+          }
+    - name: Set up wifi (interface)
+      tags: network
+      blockinfile:
+        path: /etc/network/interfaces.d/wlan0
+        block: |
+          allow-hotplug wlan0
+          iface wlan0 inet dhcp
+        create: yes
+        mode: 644
+        owner: root
+    - name: Force-reconfig of wifi
+      tags: network
+      shell: "wpa_cli -i wlan0 reconfigure"
+      changed_when: false
