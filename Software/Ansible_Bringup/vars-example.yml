@@ -1,2 +1,4 @@
 new_hostname: my_pi
 new_password: secretpass
+wifi_name: netgear
+wifi_pass: secret123
