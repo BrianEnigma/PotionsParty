@@ -64,9 +64,8 @@
           network={
           ssid="{{ wifi_name }}"
           psk="{{ wifi_pass }}"
-          key_mgmt=WPA-PSK
-          country=US
           }
+          country=US
     - name: Set up wifi (interface)
       tags: network
       blockinfile:
