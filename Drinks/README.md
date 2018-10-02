@@ -44,37 +44,80 @@ Names for Ingredients:  [Magical Ingredient Generator](http://www.dungeonsandtav
 
 [Potions in Harry Potter](https://en.wikipedia.org/wiki/Potions_in_Harry_Potter) <<< Wiki List 
 
-- Dragon Spittle (Clear Vodka)
-- (Blue Gin)
-- Salamander Blood (Red-Colored Vodka/Gin)
-- Goblin Sweat (Bourbon or Whiskey)
-- Unicorn Milk (Baileys)
-- Stewed Lacewing Flies (Campari Bitters) 
-- (Pumpkin Pie Spice) 
-- Bulbadox Juice (Chartreuse)
-- Moondew (St. Germains)
-- Bobotuber Pus ()
-- Basilisk Venom (Lemon Juice)
-- Acromantula Venom (Lime Juice) 
+- **Main Ingredients**
+
+  Acromantula Venom (Lime Juice) 
+
+  Basilisk Venom (Lemon Juice)
+
+  Bobotuber Pulp (Pumpkin Pie Spice Liqueur)
+
+  Bulbadox Juice (Chartreuse)
+
+  Dragon Spittle (Vodka)
+
+  Gilly Water (Sparkling Water)
+
+  Goblin Sweat (Bourbon)
+
+  Hemlock (Dry Vermouth)
+
+  Horklump Juice (Sweet Vermouth)
+
+  Moondew (St. Germains)
+
+  Nux Mysterica (Godiva Dark Chocolate Liqueur)
+
+  Pixie Blood (Blue-colored Gin)
+
+  Salamander Blood (Pomegranate Juice)
+
+  Stewed Lacewing Flies (Campari Bitters)
+
+  Unicorn Milk (Almond Milk Baileys)
 
 
 
-- Dropper Bottles & Other Additions
-    - Basilisk Venom (Vanilla)
-    - Unicorn Tears (Apple Juice)
-    - Phoenix Tears (Blue Food Coloring)
-    - Pixie Dust (Sugar / Cube / Demerara)
-    - Infusion of Wormwood (Absinthe)
+  **Additions**
 
-- Garnish
-    - Plimpy Eyes  (Olives)  -- also Eel Eyes, Eye of Newt (??)
-    - Boomslang Skin (lemon peel)
-    - Powdered Bicorn Horn (Nutmeg and Cinnamon)
-    - Shaved Mertlap Tentacle (lime peel)
-    - Dragonfly Thorax (chocolate shavings)
-    - Tarragon Spring
-    - Rosemary Spring (scorched)
-    - Iocane Powder 
+  Dragon Claw Ooze (Bitters)
+
+  Essence of Dittany (Vanilla)
+
+  Infusion of Wormwood (Absinthe)
+
+  Iocane Powder (Ground Tarragon)
+
+  Pixie Dust (Sugar)
+
+  Phoenix Tears (Green-colored Water)
+
+
+
+  Frog Brain (Sugar Cube)  <-- add if needed
+
+
+
+
+
+  **Garnish**
+
+  Dragonfly Thorax (Chocolate Shavings)
+
+  Boomslang Skin (Lemon Peel)
+
+  Fluxweed (Scortched Rosemary Sprig)
+
+  Jewelweed (Tarragon Sprig)
+
+  Plimpy Eyes (Olives) 
+
+  Powdered Bicorn Horn (Nutmeg and Cinnamon)
+
+  Sliced Mertlap Tentacle (Lime Peel)
+
+  Wiggentree Bark (Cinnamon Stick)
+
 
 
 THOUGHTS:
@@ -85,25 +128,6 @@ THOUGHTS:
 
 
 ## Drink Recipes
-
-**Amortentia (?) - Vampire Blood Something....**
-
-- 2 oz. Clear Vodka
-- 1/2 oz. Campari
-- 2 oz. Pomegrantate 
-
-
-
-**Felix Felicis**
-(Based on Irish Farmer Sex thing)
-
-- 2 oz Whiskey
-- 1 oz Sweet Vermouth
-- 6 drops of Absinthe
-- pinch of ground tarragon (mortar & pestle ground)
-- sprig of tarragon
-
-
 
 **Wolfsbane Potion** (gorgeous pale green)
 "Unicorn Blood(ish)" from the HP Cocktails page
@@ -130,7 +154,46 @@ Mixture between Ipso Facto & Green Lady
 
 
 
-**Dementor Curative or Remedy** (milky brown)
+**Draught of Living Death**  (brown)
+Based on "This is not a Brothel"
+
+- Bourbon
+- Bitters
+- Soda Water (Gilly) 
+- Rosemary Sprig (singed)
+
+
+
+**Confusing Concoction** 
+(Vodka Martini)
+
+- equal parts
+
+  - Clear Vodka
+  - Dry vermouth
+  - olives
+
+
+**Felix Felicis**
+(Based on Irish Farmer Sex thing)
+
+- 2 oz Whiskey
+- 1 oz Sweet Vermouth
+- 6 drops of Absinthe
+- pinch of ground tarragon (mortar & pestle ground)
+- sprig of tarragon
+
+
+
+**Amortentia (?) - Vampire Blood Something....**
+
+- 2 oz. Clear Vodka
+- 1/2 oz. Campari
+- 2 oz. Pomegrantate 
+
+
+
+**Dementor Curative** (milky brown)
 (Chocolate Martini)
 
 - equal parts
@@ -141,17 +204,7 @@ Mixture between Ipso Facto & Green Lady
 
 
 
-**Name Forthcoming** 
-(Vodka Martini)
-
-- equal parts
-  - Clear Vodka
-  - Dry vermouth
-  - olives
-
-
-
-**Name Forthcoming** (Milky)
+**Elixir of Desire** (Milky)
 (Pumpkin Pie Martini) 
 
 - 1.5 oz Vodka
@@ -159,16 +212,11 @@ Mixture between Ipso Facto & Green Lady
 - 1.5 oz Bailey (Almond)
 - 4 drops of Vanilla
 - 2 pinches nutmeg/cinnamon garnish
+- Cinnamon stick
 
 
 
-**Name Forthcoming**  (brown)
-Based on "This is not a Brothel"
 
-- Bourbon
-- Bitters
-- Soda Water (Gilly) 
-- Rosemary Sprig (singed)
 
 
 
@@ -187,3 +235,5 @@ Shake gin, juices, and Chartreuse in a shaker with ice. Strain into a glass (you
 
 
 Add (bourbon/whiskey) to Butterbeer for a kick (handwritten in book)
+
+Same for Polyjuice Potion (which might only be Green Juice like Superfood)
