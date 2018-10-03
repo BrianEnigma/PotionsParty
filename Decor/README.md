@@ -19,6 +19,7 @@
     - Soundscape of forest sounds
     - Scary eyes behind plants/foliage
     - Hidden Snitches ??
+    - Cat tree in the corner
 
 - Smoking Cauldron Centerpiece
 
