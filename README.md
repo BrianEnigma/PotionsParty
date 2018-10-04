@@ -32,7 +32,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 - [ ] Potions Cabinets
 - [ ] Test Tube Racks
 - [ ] Mixing Stations
-- [ ] Magic Wands
+- [x] Magic Wands
 - [x] Invitations
   - [x] Designed
   - [x] Printed
@@ -87,6 +87,6 @@ To Purchase
 
 - [ ] Dry Ice
 
-- [ ] Godiva Dark Chocolate Liqueur
+- [x] Godiva Dark Chocolate Liqueur
 
-- [ ] Almond Milk Baileys?
+- [x] Almond Milk Baileys
