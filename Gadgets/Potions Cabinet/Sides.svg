@@ -55,4 +55,16 @@
             <rect x="1062.99" y="354.331" width="47.244" height="259.843" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.49px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
         </g>
     </g>
+    <g transform="matrix(1,0,0,1,-1879.13,340.157)">
+        <circle cx="4978.35" cy="1316.93" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        <g transform="matrix(1,0,0,1,354.331,0)">
+            <circle cx="4978.35" cy="1316.93" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,383.858)">
+            <circle cx="4978.35" cy="1316.93" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,354.331,383.858)">
+            <circle cx="4978.35" cy="1316.93" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.42px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+    </g>
 </svg>
