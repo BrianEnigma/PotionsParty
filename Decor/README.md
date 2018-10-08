@@ -20,6 +20,7 @@
     - Scary eyes behind plants/foliage
     - Hidden Snitches ??
     - Cat tree in the corner
+    - Cat tent with other camping gear
 
 - Smoking Cauldron Centerpiece
 

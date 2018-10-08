@@ -158,7 +158,7 @@ Mixture between Ipso Facto & Green Lady
 Based on "This is not a Brothel"
 
 - Bourbon
-- Bitters
+- 8 drops Bitters
 - Soda Water (Gilly) 
 - Rosemary Sprig (singed)
 
