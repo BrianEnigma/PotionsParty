@@ -129,6 +129,10 @@ THOUGHTS:
 
 ## Drink Recipes
 
+**NOTE -- we'll have to increase the recipes to all have the same amount of Gin / Vodka, etc. ..**
+
+
+
 **Wolfsbane Potion** (gorgeous pale green)
 "Unicorn Blood(ish)" from the HP Cocktails page
 
@@ -141,7 +145,7 @@ THOUGHTS:
 
 
 
-**Veritaserum** (bright emerald green color)  ---
+**Veritaserum** (bright emerald green color)  --- 
 Mixture between Ipso Facto & Green Lady
 
 - 1oz Blue Gin
@@ -185,7 +189,7 @@ Based on "This is not a Brothel"
 
 
 
-**Amortentia (?) - Vampire Blood Something....**
+**Amortentia**
 
 - 2 oz. Clear Vodka
 - 1/2 oz. Campari
