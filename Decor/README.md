@@ -2,6 +2,8 @@
 
 ### Indoor Decor:
 
+- Photo-Op space!!!
+
 - Spine candle
 
 - Lighting
