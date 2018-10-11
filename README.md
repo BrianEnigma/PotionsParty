@@ -37,7 +37,7 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
   - [x] Designed
   - [x] Printed
   - [x] Distributed
-- [ ] Decide on drink / food menu (sample)
+- [x] Decide on drink / food menu (sample)
 - [ ] Potion/Spellbooks
   - [x] Designed
   - [ ] Printed
@@ -49,44 +49,29 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
   - [ ] Potions Classroom
   - [ ] Beware the House Elf
   - [ ] Keep Out (for lights??)
-- [ ] Labels for Drinks
-  - [ ] Pumpkin Juice
-  - [ ] Butterbeer
-  - [ ] In a pinch, this etsy page has them all: https://www.etsy.com/shop/Snitchesgetwitches
   - [ ] Do Not Open: Ghost Inside ??
+- [x] Labels for Drinks
+  - [x] Pumpkin Juice
+  - [x] Butterbeer
+  - [x] In a pinch, this etsy page has them all: https://www.etsy.com/shop/Snitchesgetwitches
 
 
 
 To Purchase
 
 - [x] Test tubes
-
 - [x] Magical electronics
-
 - [x] Parchment & Seal Kit
-
 - [x] Jack O'Lantern Paper Lanterns
-
 - [ ] Mini projector for forest?
-
 - [x] Lights for Forbidden Forest
-
 - [x] Bertie Botts 
-
 - [x] Chocolate Frog molds
-
 - [x] Melting Dark Chocolate
-
 - [x] Tissue Paper for Indoor Dementors / Bats ??
-
 - [x] More sealing wax
-
-- [ ] Dementor-Making Supplies ?
-
+- [x] Dementor-Making Supplies ?
 - [ ] Huge Spider or supplies to make?
-
 - [ ] Dry Ice
-
 - [x] Godiva Dark Chocolate Liqueur
-
 - [x] Almond Milk Baileys
