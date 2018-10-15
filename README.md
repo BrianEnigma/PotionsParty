@@ -29,27 +29,27 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 
 ### (to be edited as needed) 
 
-- [ ] Potions Cabinets
-- [ ] Test Tube Racks
-- [ ] Mixing Stations
+- [x] Potions Cabinets
+- [x] Test Tube Racks
+- [x] Mixing Stations
 - [x] Magic Wands
 - [x] Invitations
   - [x] Designed
   - [x] Printed
   - [x] Distributed
 - [x] Decide on drink / food menu (sample)
-- [ ] Potion/Spellbooks
+- [x] Potion/Spellbooks
   - [x] Designed
   - [ ] Printed
 - [ ] Azkaban Posters / Photo Booth
-- [ ] Signage
-  - [ ] Room of Requirement
-  - [ ] Caution: Entering Forbidden Forest (??)
-  - [ ] Common Room
-  - [ ] Potions Classroom
-  - [ ] Beware the House Elf
-  - [ ] Keep Out (for lights??)
-  - [ ] Do Not Open: Ghost Inside ??
+- [x] Signage
+  - [x] Room of Requirement
+  - [x] Caution: Entering Forbidden Forest (??)
+  - [x] Common Room
+  - [x] Potions Classroom
+  - [x] Beware the House Elf
+  - [x] Keep Out (for lights??)
+  - [x] Do Not Open: Ghost Inside ??
 - [x] Labels for Drinks
   - [x] Pumpkin Juice
   - [x] Butterbeer
