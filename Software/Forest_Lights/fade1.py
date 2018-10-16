@@ -4,17 +4,19 @@ from phue import Bridge
 import pprint
 import time
 
-TRANSITION_SEC = 3
-DELAY_SEC = 5
+TRANSITION_SEC = 5
+DELAY_SEC = 120
 
 COLORS = [
     {
+        'on': True,
         'bri': 254,
         'sat': 254,
         'xy': [0.1938, 0.6821],
         'transitiontime': TRANSITION_SEC * 10
     },
     {
+        'on': True,
         'bri': 254,
         'sat': 254,
         'xy': [0.1545, 0.0971],
