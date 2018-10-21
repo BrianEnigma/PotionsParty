@@ -129,9 +129,7 @@ THOUGHTS:
 
 ## Drink Recipes
 
-**NOTE -- we'll have to increase the recipes to all have the same amount of Gin / Vodka, etc. ..**
-
-
+As written, all recipes sharing the same ingredient also share the same quantity of that ingredient so that test tubes of that ingredient can be used interchangeably. 
 
 **Wolfsbane Potion** (gorgeous pale green)
 "Unicorn Blood(ish)" from the HP Cocktails page
@@ -148,9 +146,9 @@ THOUGHTS:
 **Veritaserum** (bright emerald green color)  --- 
 Mixture between Ipso Facto & Green Lady
 
-- 1oz Blue Gin
-- 1oz Chartreuse
-- 3/4 oz Lime
+- 1.5oz Blue Gin
+- 1.5oz Chartreuse
+- 1 oz Lime
 - 6 drops Absinthe
 - Topped with soda water (Gilly Water)
 - 3 drops of green food colored water
@@ -161,7 +159,7 @@ Mixture between Ipso Facto & Green Lady
 **Draught of Living Death**  (brown)
 Based on "This is not a Brothel"
 
-- Bourbon
+- 2oz Bourbon
 - 8 drops Bitters
 - Soda Water (Gilly) 
 - Rosemary Sprig (singed)
@@ -173,8 +171,8 @@ Based on "This is not a Brothel"
 
 - equal parts
 
-  - Clear Vodka
-  - Dry vermouth
+  - 1.5oz Clear Vodka
+  - 1.5oz Dry vermouth
   - olives
 
 
@@ -191,7 +189,7 @@ Based on "This is not a Brothel"
 
 **Amortentia**
 
-- 2 oz. Clear Vodka
+- 1.5 oz. Clear Vodka
 - 1/2 oz. Campari
 - 2 oz. Pomegrantate 
 
@@ -201,9 +199,9 @@ Based on "This is not a Brothel"
 (Chocolate Martini)
 
 - equal parts
-  - Clear Vodka 
-  - Godiva
-  - Almond Milk Baileys
+  - 1.5oz Clear Vodka 
+  - 1.5oz Godiva
+  - 1.5oz Almond Milk Baileys
   - Chocolate shavings
 
 
