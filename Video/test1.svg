@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1920" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <path d="M1080,0L1080,1920L0,1920L0,0L1080,0ZM900,420.305L180,420.305L180,1700.31L900,1700.31L900,420.305Z" style="fill:rgb(235,235,235);"/>
+    <g transform="matrix(0.997564,-0.0697565,0.0697565,0.997564,-55.209,96.0958)">
+        <g>
+            <text x="111.232px" y="142.776px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:120px;">MAH WIZ<tspan x="528.302px 589.239px " y="142.776px 142.776px ">AR</tspan>D FROND.</text>
+            <text x="187.374px" y="274.776px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:120px;">HA<tspan x="317.921px 365.558px " y="274.776px 274.776px ">Z </tspan>YOU SEEN IT?</text>
+        </g>
+    </g>
+</svg>
