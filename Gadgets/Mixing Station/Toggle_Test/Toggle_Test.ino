@@ -12,8 +12,8 @@
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(NEOPIXEL_LENGTH, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
 Bounce debouncer = Bounce(); 
 
-#define ANIMATE_DELAY 40
-#define WHITE_BRIGHTNESS 192
+#define ANIMATE_DELAY 50
+#define WHITE_BRIGHTNESS 64
 #define BRIGHTNESS1 255
 #define BRIGHTNESS2 192
 #define BRIGHTNESS3 128
@@ -39,10 +39,9 @@ void setup()
     #endif
     // End of trinket special code
 
+    Serial.begin(9600);
     pinMode(TEST_LED_PIN, OUTPUT);
     pinMode(MAGNET_PIN, INPUT);
-    pinMode(A0, INPUT);
-    randomSeed(analogRead(0));
     debouncer.attach(MAGNET_PIN);
     debouncer.interval(100);
     strip.begin();
@@ -57,6 +56,7 @@ void loop()
 {
     debouncer.update();
     int value = debouncer.read();
+    Serial.println(value);
     if (value == HIGH) 
     {
         digitalWrite(TEST_LED_PIN, HIGH);
@@ -72,65 +72,14 @@ void loop()
         if (value == LOW)
         {
             isAnimating = !isAnimating;
-            animateStartStop(isAnimating);
+            Serial.print("==========> CHANGE STATE TO ");
+            Serial.println(isAnimating);
         }
     }
     if (isAnimating)
-        animateStep();
-}
-
-void drawSpinner()
-{
-    for (uint8_t pos = 0; pos < NEOPIXEL_LENGTH; pos++)
-        strip.setPixelColor(pos, WHITE);
-    for (int8_t offset = -3; offset <= 3; offset++)
-    {
-        int8_t pos = stirPosition + offset; // Find the position for the color offset (this could be negative).
-        uint32_t color = COLORS[selectedColor][abs(offset)]; // Find the color for this offset.
-        pos = (pos + NEOPIXEL_LENGTH) % NEOPIXEL_LENGTH; // Find the real-world position (this must be positive)
-        // Set the color of "this" pixel.
-        strip.setPixelColor(pos, color);
-        // Set the color of pixel across from it in the circle
-        pos = (pos + (NEOPIXEL_LENGTH / 2)) % NEOPIXEL_LENGTH;
-        strip.setPixelColor(pos, color);
-    }
-}
-
-void animateStartStop(bool doStart)
-{
-    if (doStart)
-    {
-        stirPosition = 0;
-        selectedColor = random(0, 4);
-
-        for (int brightness = 0; brightness <= 255; brightness += 10)
-        {
-            strip.setBrightness(brightness);
-            drawSpinner();
-            strip.show();
-            delay(30);
-        }
-        strip.setBrightness(255);
-    } else {
-        for (int brightness = 255; brightness >= 0; brightness -= 10)
-        {
-            strip.setBrightness(brightness);
-            drawSpinner();
-            strip.show();
-            delay(30);
-        }
-        strip.setBrightness(255);
+        showColor(WHITE);
+    else
         showColor(0x000000);
-    }
-}
-
-void animateStep()
-{
-    drawSpinner();
-    strip.show();
-
-    delay(ANIMATE_DELAY);
-    stirPosition = (stirPosition + 1) % NEOPIXEL_LENGTH;
 }
 
 void strandTest()
@@ -141,7 +90,7 @@ void strandTest()
         for (uint8_t pos = 0; pos < NEOPIXEL_LENGTH; pos++)
             strip.setPixelColor(pos, COLORS[color]);
         strip.show();
-        delay(100);
+        delay(50);
     }
 }
 
