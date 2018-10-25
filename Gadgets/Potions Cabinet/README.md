@@ -37,5 +37,7 @@
 - There's a tradeoff between spring and solenoid. A stronger spring means the door pops open further, but it also means more friction between the latch and the solenoid slug. I've mitigated this a bit by waxing the latch. Doing this again, I might want to use two solenoids: one as a latch and one to kick the door open. Though hopefully that kick wouldn't be too forceful and/or loud.
 - The really awesome decorative corners have a flaw in the current design. They're metal and too close to the keyhole. The magnets get sucked toward the metal corner, away from the sensor. From the sensor/functional point of view. this is less of a problem for the big magnets, since they're strong enough to have a good range, but doesn't work well with the small magnets. Tech aside — the overall experience feels a bit tarnished. You suddenly _know_ you're using a magnet when it sticks to the corner. In the future, move the keyhole or remove the corners. Maybe move the keyhole to the center of the frame? 
 - The breakout board off the Arduino Pro Mini could use multiple power+ground terminals. Trying to jam 4 ground wires into a mini terminal block is a pain.
+- A separate voltage regulator for LEDs, rather than relying on the one on the Arduino Pro Mini. The current draw from the LED strip above a certain brightness starves the microcontroller and forces a reboot.
+- Sound upon activation. The wand covers up a good amount of the keyhole, so it's a little difficult to see that it's glowing at first.
 
 
