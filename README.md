@@ -25,53 +25,9 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 
 
 
-# Priority List 
+# Lessons Learned
 
-### (to be edited as needed) 
+Many of the individual projects have their own “lessons learned” sections, but overarching lessons for the whole party go here:
 
-- [x] Potions Cabinets
-- [x] Test Tube Racks
-- [x] Mixing Stations
-- [x] Magic Wands
-- [x] Invitations
-  - [x] Designed
-  - [x] Printed
-  - [x] Distributed
-- [x] Decide on drink / food menu (sample)
-- [x] Potion/Spellbooks
-  - [x] Designed
-  - [ ] Printed
-- [ ] Azkaban Posters / Photo Booth
-- [x] Signage
-  - [x] Room of Requirement
-  - [x] Caution: Entering Forbidden Forest (??)
-  - [x] Common Room
-  - [x] Potions Classroom
-  - [x] Beware the House Elf
-  - [x] Keep Out (for lights??)
-  - [x] Do Not Open: Ghost Inside ??
-- [x] Labels for Drinks
-  - [x] Pumpkin Juice
-  - [x] Butterbeer
-  - [x] In a pinch, this etsy page has them all: https://www.etsy.com/shop/Snitchesgetwitches
+- Hire a professional photographer.
 
-
-
-To Purchase
-
-- [x] Test tubes
-- [x] Magical electronics
-- [x] Parchment & Seal Kit
-- [x] Jack O'Lantern Paper Lanterns
-- [ ] Mini projector for forest?
-- [x] Lights for Forbidden Forest
-- [x] Bertie Botts 
-- [x] Chocolate Frog molds
-- [x] Melting Dark Chocolate
-- [x] Tissue Paper for Indoor Dementors / Bats ??
-- [x] More sealing wax
-- [x] Dementor-Making Supplies ?
-- [ ] Huge Spider or supplies to make?
-- [ ] Dry Ice
-- [x] Godiva Dark Chocolate Liqueur
-- [x] Almond Milk Baileys
