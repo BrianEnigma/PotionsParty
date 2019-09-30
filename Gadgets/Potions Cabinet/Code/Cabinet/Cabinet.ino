@@ -3,13 +3,18 @@
 #define SOLENOID_PIN 2
 #define LED_PIN 3
 #define MAGNET_PIN 4
+#define SOUND_PIN 5
+#define INSIDE_LED_PIN 6
 
 #define LED_COUNT 8
+
+#define INSIDE_LED_COUNT 6
 
 #define WHITE_BRIGHTNESS 192
 #define COLOR_BRIGHTNESS 192
 
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel insideStrip = Adafruit_NeoPixel(INSIDE_LED_COUNT, INSIDE_LED_PIN, NEO_GRB + NEO_KHZ800);
 
 const uint32_t COLORS[] = {
     strip.Color(COLOR_BRIGHTNESS, 0, 0), // red
@@ -53,16 +58,43 @@ void setSolenoid(bool energized)
     digitalWrite(LED_BUILTIN, energized? HIGH : LOW);
 }
 
+void makeNoise()
+{
+    digitalWrite(SOUND_PIN, LOW);
+    delay(250);
+    digitalWrite(SOUND_PIN, HIGH);
+}
+
+void insideLightsOn()
+{
+    uint16_t i;
+    for(i = 0; i < INSIDE_LED_COUNT; i++) 
+        insideStrip.setPixelColor(i, 0x202020);
+    insideStrip.show();
+}
+
+void insideLightsOff()
+{
+    for(int i = 0; i < INSIDE_LED_COUNT; i++) 
+        insideStrip.setPixelColor(i, 0x000000);
+    insideStrip.show();
+}
+
 void setup() 
 {
     pinMode(SOLENOID_PIN, OUTPUT);
     pinMode(MAGNET_PIN, INPUT);
     pinMode(LED_BUILTIN, OUTPUT);
+    pinMode(SOUND_PIN, OUTPUT);
+    pinMode(INSIDE_LED_PIN, OUTPUT);
     pinMode(A0, INPUT);
     randomSeed(analogRead(0));
     setSolenoid(false);
+    digitalWrite(SOUND_PIN, HIGH);
     strip.begin();
     strip.show(); // Initialize all pixels to 'off'
+    insideStrip.begin();
+    insideStrip.show();
     colorTest();
 }
 
@@ -85,6 +117,7 @@ void randomAnimation(uint32_t c)
 
 void doAnimateUnlock()
 {
+    makeNoise();
     selectedColor = random(0, 4);
     // Fade up
     for (int brightness = 0; brightness <= 255; brightness += 10)
@@ -105,6 +138,7 @@ void doAnimateUnlock()
         delay(100);
     }
 
+    insideLightsOn();
     for (int i = 0; i < 2; i++)
     {
         randomAnimation(COLORS[selectedColor]);
@@ -135,6 +169,9 @@ void doAnimateUnlock()
     strip.setBrightness(255);
     setColor(0x000000);
     strip.show();
+    for (int i = 0; i < 10; i++)
+        delay(1000);
+    insideLightsOff();
 }
 
 bool oldState = false;
