@@ -8,7 +8,7 @@
 
 #define LED_COUNT 8
 
-#define INSIDE_LED_COUNT 6
+#define INSIDE_LED_COUNT 8
 
 #define WHITE_BRIGHTNESS 192
 #define COLOR_BRIGHTNESS 192
@@ -111,77 +111,10 @@ void setup()
     colorTest();
 }
 
-void randomAnimation(uint32_t c)
-{
-    for(uint16_t i = 0; i < LED_COUNT; i++) 
-    {
-        if (i % 2)
-        {
-            strip.setPixelColor(i, c);
-        } else {
-            uint32_t randC = 0;
-            for (int shade = 0; shade <= 4; shade++)
-                randC = (randC << 8) | random(0x00, 0x60);
-            strip.setPixelColor(i, randC);
-        }
-    }
-    strip.show();
-}
-
 void doAnimateUnlock()
 {
     makeNoise();
-    selectedColor = random(0, 4);
-    // Fade up
-    for (int brightness = 0; brightness <= 255; brightness += 10)
-    {
-        strip.setBrightness(brightness);
-        setColor(COLORS[selectedColor]);
-        strip.show();
-        delay(30);
-    }
-    strip.setBrightness(255);
-    setColor(COLORS[selectedColor]);
-    strip.show();
-
-    // Blinkeys
-    for (unsigned int counter = 0; counter < 20; counter++)
-    {
-        randomAnimation(COLORS[selectedColor]);
-        delay(100);
-    }
-
-    for (int i = 0; i < 2; i++)
-    {
-        randomAnimation(COLORS[selectedColor]);
-        setSolenoid(true);
-        delay(100);
-        randomAnimation(COLORS[selectedColor]);
-        setSolenoid(false);
-        delay(100);
-    }
-    setSolenoid(true);
     insideLightsOn();
-    for (unsigned int counter = 0; counter < 40; counter++)
-    {
-        randomAnimation(COLORS[selectedColor]);
-        delay(100);
-    }
-    setSolenoid(false);
-
-    // Fade out
-    setColor(COLORS[selectedColor]);
-    strip.show();
-    for (int brightness = 255; brightness >= 0; brightness -= 10)
-    {
-        strip.setBrightness(brightness);
-        setColor(COLORS[selectedColor]);
-        strip.show();
-        delay(30);
-    }
-    strip.setBrightness(255);
-    setColor(0x000000);
-    strip.show();
     for (int i = 0; i < 10; i++)
         delay(1000);
     insideLightsOff();
@@ -191,16 +124,9 @@ bool oldState = false;
 bool newState = false;
 void loop() 
 {
-    if (digitalRead(MAGNET_PIN) == HIGH) 
+    doAnimateUnlock();
+    while (1)
     {
-        newState = false;
-    } else {
-        newState = true;
-    }
-    if (oldState != newState)
-    {
-        if (LOW == newState)
-            doAnimateUnlock();
-        oldState = newState;
+        delay(1000);
     }
 }
