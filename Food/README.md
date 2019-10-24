@@ -33,8 +33,15 @@ Most food items to be small(ish), no more than a few bites. Reasoning below.
 
 
 
-
-
 My instinct is to go big, but the reality is we'll likely have so so so many leftovers! Perhaps a single, impressive centerpiece, like something from the Creepy Baker book and/or an actual smoking cauldron (from the one Brian has in the kitchen) that's only for looks (dry ice in that??) -- and then an impressive food item.
 
 Another possibiltiy is to make a large Cauldron Cake, but then it's a whole cake! It's likely better to have little individual things like cake pops....
+
+
+
+
+##Additions for 2.0:
+
+- [Cockroach Clusters] (,http://www.misskitchenwitch.com/blog/?p=1721), but with Hummus instead of cashew cheese (GF)
+- [Garlic Bat Bites](,https://www.food.com/recipe/garlic-bat-bites-467495) (GF)
+- [Grasmere Gingerbread](,https://tinandthyme.uk/2015/10/grasmere-ginger-shortbread/)
