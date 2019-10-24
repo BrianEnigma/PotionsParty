@@ -14,3 +14,10 @@ If in a pinch, this Esty page has all the lables ready to print:
 
 https://www.etsy.com/shop/Snitchesgetwitches
 
+
+
+
+
+**NOTE**
+
+Purchased them from Etsy in 2018, but not kept in this accessible directory because they're someone else's design. Look in Personal > Photos > HP

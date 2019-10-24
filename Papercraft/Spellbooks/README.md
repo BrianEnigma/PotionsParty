@@ -1,5 +1,13 @@
 # Spell Books
 
+Moving forward, edit the Potions_Print_Order file only, so we don't have to copy/paste into it each year.  
+
+Needs to be set to **long-edge binding** for printing
+
+----{----{@ 10/23/19 CMR
+
+
+
 **Random thoughts:** 
 
 Everyone will have their own potion textbook with a place for their name and notes, as a souvenir for the party. 
