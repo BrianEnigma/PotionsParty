@@ -30,4 +30,4 @@ Notes, designs, and source files for a Potions Class themed Harry Potter party. 
 Many of the individual projects have their own “lessons learned” sections, but overarching lessons for the whole party go here:
 
 - Hire a professional photographer.
-- Hire a bartender
+- Hire a professional bartender.
